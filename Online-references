@@ -1,0 +1,20 @@
+Angular
+  
+
+
+RxJs
+    MergeMap vs ConcatMap Vs ForkJoin/ MergeMap vs ConcatMap vs ExhaustMap vs SwitchMap vs ForkJoin/ RxJS mergeMap vs switchMap vs concatMap vs exhaustMap
+      https://dev.to/kinginit/rxjs-mergemap-vs-switchmap-vs-concatmap-vs-exhaustmap-5gpg
+      https://thesiddharthraghuvanshi.medium.com/mergemap-vs-concatmap-vs-exhaustmap-vs-switchmap-vs-forkjoin-e19016772ad2
+      https://medium.com/@gurunadhpukkalla/mergemap-vs-concatmap-vs-forkjoin-f2ce68acf154
+      https://thesiddharthraghuvanshi.medium.com/mergemap-vs-concatmap-vs-exhaustmap-vs-switchmap-vs-forkjoin-e19016772ad2
+
+
+
+Online - Tools
+  Fake JSON  - https://jsonplaceholder.typicode.com/
+  Create rxjs Visualizer - https://rxvisualizer.com/
+  RxJS visualizer - https://rxjs-visualize.explosionpills.com/switchMap
+  
+  
+  
